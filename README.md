@@ -36,7 +36,11 @@ This is a list of commonsense-related papers (mainly in NLP field). Any feedback
 - [Diversity-aware Event Prediction based on a Conditional Variational Autoencoder with Reconstruction](https://www.aclweb.org/anthology/D19-6014/) (COIN 2019)
 - [Can a Gorilla Ride a Camel? Learning Semantic Plausibility from Text](https://www.aclweb.org/anthology/D19-6015/) (COIN 2019)
 - [How Pre-trained Word Representations Capture Commonsense Physical Comparisons](https://www.aclweb.org/anthology/D19-6016/) (COIN 2019)
+- [Explaining Question Answering Models through Text Generation](https://arxiv.org/abs/2004.05569)
 
+
+## probing
+- [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
 
 ## competition report
 - [Commonsense Inference in Natural Language Processing (COIN) - Shared Task Report](https://www.aclweb.org/anthology/D19-6007/) (COIN 2019)
