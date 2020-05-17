@@ -11,7 +11,9 @@ This is a list of commonsense-related papers (mainly in NLP field). Any feedback
 - [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830)
 - [COMMONSENSEQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421.pdf) (NAACL 2019)
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://arxiv.org/abs/2005.00333)
+- [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728)
 
+## approaches
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024) (AAAI 2019)
 - [Joint Reasoning for Multi-Faceted Commonsense Knowledge](https://arxiv.org/abs/2001.04170)
 - [Connecting the Dots: A Knowledgeable Path Generator for Commonsense Question Answering](https://arxiv.org/abs/2005.00691)
