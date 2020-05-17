@@ -41,6 +41,7 @@ This is a list of commonsense-related papers (mainly in NLP field). Any feedback
 
 ## probing
 - [Probing Neural Network Comprehension of Natural Language Arguments](https://arxiv.org/abs/1907.07355)
+- [What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge](https://arxiv.org/abs/1912.13337)
 
 ## competition report
 - [Commonsense Inference in Natural Language Processing (COIN) - Shared Task Report](https://www.aclweb.org/anthology/D19-6007/) (COIN 2019)
