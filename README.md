@@ -13,6 +13,7 @@ This is a list of commonsense-related papers (mainly in NLP field). Any feedback
 - [XCOPA: A Multilingual Dataset for Causal Commonsense Reasoning](https://arxiv.org/abs/2005.00333)
 - [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728)
 - [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361)
+- [Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference](https://arxiv.org/pdf/1808.05326.pdf)
 
 ## approaches
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024) (AAAI 2019)
