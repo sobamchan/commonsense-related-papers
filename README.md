@@ -23,6 +23,14 @@ This is a list of commonsense-related papers (mainly in NLP field). Any feedback
 - [MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/)
 - [Think you have Solved Question Answering?
 Try ARC, the AI2 Reasoning Challenge](https://arxiv.org/pdf/1803.05457.pdf)
+- [DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension](https://arxiv.org/abs/1902.00164)
+- [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://arxiv.org/abs/1903.00161)
+- [Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning](https://arxiv.org/abs/1909.00277)
+- ["Going on a vacation" takes longer than "Going for a walk": A Study of Temporal Commonsense Understanding](https://arxiv.org/abs/1909.03065) (EMNLP 2019)
+- [Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning](https://people.ict.usc.edu/~gordon/publications/AAAI-SPRING11A.PDF)
+- [Visual Choice of Plausible Alternatives: An Evaluation of Image-based Commonsense Causal Reasoning](https://www.aclweb.org/anthology/L18-1316.pdf)
+- [Ordinal Common-sense Inference](https://www.aclweb.org/anthology/Q17-1027/)
+
 
 
 ## approaches
