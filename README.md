@@ -14,6 +14,16 @@ This is a list of commonsense-related papers (mainly in NLP field). Any feedback
 - [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728)
 - [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://arxiv.org/abs/1906.02361)
 - [Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference](https://arxiv.org/pdf/1808.05326.pdf)
+- [Winograd Schema Challenge](http://commonsensereasoning.org/2011/papers/Levesque.pdf)
+- [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](https://arxiv.org/abs/1805.06939)
+- [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/abs/1907.10641)
+- [MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge](https://arxiv.org/abs/1803.05223)
+- [CoQA: A Conversational Question Answering Challenge](https://arxiv.org/abs/1808.07042)
+- [Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering](https://arxiv.org/abs/1809.02789)
+- [MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text](https://www.microsoft.com/en-us/research/publication/mctest-challenge-dataset-open-domain-machine-comprehension-text/)
+- [Think you have Solved Question Answering?
+Try ARC, the AI2 Reasoning Challenge](https://arxiv.org/pdf/1803.05457.pdf)
+
 
 ## approaches
 - [Why Do Masked Neural Language Models Still Need Common Sense Knowledge?](https://arxiv.org/abs/1911.03024) (AAAI 2019)
